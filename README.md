@@ -2,6 +2,7 @@
 # Business Analytics With Excel
 -----------------------------------
 # E-Commerce Sales Dashboard
+![image](https://user-images.githubusercontent.com/113992933/226187530-56afd819-61ea-4f85-b06d-396fcd1f1311.png)
 -----------------------------------
 
 DESCRIPTION
