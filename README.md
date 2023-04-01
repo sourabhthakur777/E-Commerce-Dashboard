@@ -1,19 +1,17 @@
-# MS-Excel-Dashboard
-# Business Analytics With Excel
+# E-Commerce Sales Dashboard- Business Analytics With Excel
 -----------------------------------
-# E-Commerce Sales Dashboard
 ![image](https://user-images.githubusercontent.com/113992933/226187530-56afd819-61ea-4f85-b06d-396fcd1f1311.png)
 -----------------------------------
 
-DESCRIPTION
+## 📑DESCRIPTION
 
-# Background 
+## 📉Background 
 
 E-commerce is fast gaining ground as an accepted and used business paradigm. More and more business houses are implementing
 web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that the
 process of shopping on the web is becoming commonplace.
 
-# Objective
+## 🎯Objective
 
 An Online E-Commerce Company wants to design a Sales dashboard to analyze the sales based on various product categories. 
 The company wants to add user control for product category, so users can select a category and can see the trend month-wise
@@ -52,7 +50,7 @@ Country	                                      Unique Country Name
 Region	                                      Especially the part of a country
 Months	                                      The month of placing the order
 
-# Analysis Tasks
+## 	📝Analysis Tasks
 
 Use the Saved Sample – E-Commerce database.    
      Create a histogram to analyze a number of shipping days.
